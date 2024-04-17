@@ -1,0 +1,7 @@
+
+Product_ID	Product_Type	Price	Competitor_Price	Marketing_Spend	Sales	Month	Consumer_Rating	Is_Holiday
+001	Skincare	25.00	27.50	5000	150	1	4.5	Yes
+002	Makeup	20.00	22.00	3000	200	1	4.2	Yes
+003	Haircare	15.00	15.00	2000	180	2	4.0	No
+004	Skincare	30.00	28.00	4500	250	3	4.8	No
+005	Makeup	18.00	18.50	1500	190	4	3.9	No
